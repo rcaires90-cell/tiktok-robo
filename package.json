@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-robo-afiliados",
+  "version": "1.0.0",
+  "description": "Robo automatico de conteudo TikTok internacional com IA",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
